@@ -19,8 +19,8 @@ This project implements a Retrieval-Augmented Generation (RAG) API using FastAPI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dshathwikr/rag-app.git
-   cd rag-app
+   git clone https://github.com/shathwik30/RAG-Application.git
+   cd RAG-Application
    ```
 
 2. Create a virtual environment and activate it:
